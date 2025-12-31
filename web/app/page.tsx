@@ -86,7 +86,7 @@ export default function HomePage() {
           </div>
           <Link
             href="/cart"
-            className="rounded-xl border bg-white px-3 py-2 text-sm text-black hover:bg-zinc-50"
+            className="rounded-xl border bg-zinc-300 px-3 py-2 text-sm text-black hover:bg-zinc-50"
           >
             View cart
           </Link>
