@@ -1,94 +1,684 @@
-[00:00:00.674] Server  LOG     ✓ Ready in 512ms
-[00:00:01.251] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:11.426] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:28.713] Server  LOG     ✓ Compiled in 725ms
-[00:03:05.700] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:29.887] Server  LOG     ✓ Compiled in 26ms
-[00:03:39.233] Server  LOG     ✓ Compiled in 24ms
-[00:04:04.514] Server  LOG     ✓ Compiled in 28ms
-[00:04:15.919] Server  LOG     ✓ Compiled in 23ms
-[00:04:41.507] Server  LOG     ✓ Compiled in 21ms
-[00:05:09.349] Server  LOG     ✓ Compiled in 23ms
-[00:05:20.050] Server  LOG     ✓ Compiled in 20ms
-[00:05:43.316] Server  LOG     ✓ Compiled in 25ms
-[00:06:22.017] Server  LOG     ✓ Compiled in 20ms
-[00:06:33.662] Server  LOG     ✓ Compiled in 19ms
-[00:06:51.557] Server  LOG     ✓ Compiled in 22ms
-[00:07:07.306] Server  LOG     ✓ Compiled in 17ms
-[00:07:29.396] Server  LOG     ✓ Compiled in 18ms
-[00:07:36.777] Server  LOG     ✓ Compiled in 25ms
-[00:08:17.630] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:03:13.216] Server  LOG     ✓ Compiled in 25ms
-[01:03:28.164] Server  LOG     ✓ Compiled in 21ms
-[01:04:43.857] Server  LOG     ✓ Compiled in 24ms
-[01:05:34.609] Server  LOG     ✓ Compiled in 25ms
-[01:05:48.454] Server  LOG     ✓ Compiled in 20ms
-[01:06:09.148] Server  LOG     ✓ Compiled in 23ms
-[01:11:48.407] Server  LOG     ✓ Compiled in 27ms
-[01:11:53.071] Server  LOG     ✓ Compiled in 19ms
-[01:12:20.345] Server  LOG     ✓ Compiled in 25ms
-[01:12:24.935] Server  LOG     ✓ Compiled in 20ms
-[01:15:30.411] Server  LOG     ✓ Compiled in 25ms
-[01:15:40.372] Server  LOG     ✓ Compiled in 18ms
-[01:16:37.363] Server  LOG     ✓ Compiled in 20ms
-[01:17:34.967] Server  LOG     ✓ Compiled in 20ms
-[01:17:46.199] Server  LOG     ✓ Compiled in 21ms
-[01:17:57.368] Server  LOG     ✓ Compiled in 20ms
-[01:18:06.365] Server  LOG     ✓ Compiled in 25ms
-[01:18:23.923] Server  LOG     ✓ Compiled in 17ms
-[01:18:31.296] Server  LOG     ✓ Compiled in 22ms
-[01:18:51.639] Server  LOG     ✓ Compiled in 26ms
-[01:19:01.538] Server  LOG     ✓ Compiled in 23ms
-[01:19:04.834] Server  LOG     ✓ Compiled in 18ms
-[01:19:14.461] Server  LOG     ✓ Compiled in 21ms
-[01:19:24.229] Server  LOG     ✓ Compiled in 34ms
-[01:20:11.688] Server  LOG     ✓ Compiled in 19ms
-[01:20:14.822] Server  LOG     ✓ Compiled in 16ms
-[01:20:37.394] Server  LOG     ✓ Compiled in 24ms
-[01:21:00.862] Server  LOG     ✓ Compiled in 23ms
-[01:22:13.964] Server  LOG     ✓ Compiled in 24ms
-[01:22:27.070] Server  LOG     ✓ Compiled in 21ms
-[01:22:35.475] Server  LOG     ✓ Compiled in 17ms
-[01:22:39.412] Server  LOG     ✓ Compiled in 25ms
-[01:22:43.683] Server  LOG     ✓ Compiled in 18ms
-[01:23:07.742] Server  LOG     ✓ Compiled in 28ms
-[01:23:14.988] Server  LOG     ✓ Compiled in 20ms
-[01:23:26.901] Server  LOG     ✓ Compiled in 16ms
-[01:23:52.341] Server  LOG     ✓ Compiled in 18ms
-[01:24:00.233] Server  LOG     ✓ Compiled in 21ms
-[01:24:29.171] Server  LOG     ✓ Compiled in 26ms
-[01:25:13.657] Server  LOG     ✓ Compiled in 22ms
-[01:25:31.297] Server  LOG     ✓ Compiled in 21ms
-[01:25:43.448] Server  LOG     ✓ Compiled in 20ms
-[01:25:47.602] Server  LOG     ✓ Compiled in 24ms
-[01:26:19.616] Server  LOG     ✓ Compiled in 26ms
-[01:26:24.608] Server  LOG     ✓ Compiled in 21ms
-[01:26:31.840] Server  LOG     ✓ Compiled in 18ms
-[01:26:37.749] Server  LOG     ✓ Compiled in 19ms
-[01:26:42.307] Server  LOG     ✓ Compiled in 32ms
-[01:26:48.655] Server  LOG     ✓ Compiled in 26ms
-[01:27:40.231] Server  LOG     ✓ Compiled in 20ms
-[01:27:45.983] Server  LOG     ✓ Compiled in 26ms
-[01:27:57.069] Server  LOG     ✓ Compiled in 32ms
-[01:28:10.396] Server  LOG     ✓ Compiled in 24ms
-[01:28:13.389] Server  LOG     ✓ Compiled in 31ms
-[01:28:15.468] Server  LOG     ✓ Compiled in 21ms
-[01:28:30.361] Server  LOG     ✓ Compiled in 20ms
-[01:28:37.005] Server  LOG     ✓ Compiled in 16ms
-[01:28:41.691] Server  LOG     ✓ Compiled in 20ms
-[01:28:44.758] Server  LOG     ✓ Compiled in 25ms
-[01:37:25.053] Server  LOG     ✓ Compiled in 23ms
-[01:39:51.936] Server  LOG     ✓ Compiled in 24ms
-[01:39:57.244] Server  LOG     ✓ Compiled in 20ms
-[01:40:09.929] Server  LOG     ✓ Compiled in 20ms
-[01:40:31.022] Server  LOG     ✓ Compiled in 21ms
-[01:41:36.040] Server  LOG     ✓ Compiled in 24ms
-[01:41:46.638] Server  LOG     ✓ Compiled in 28ms
-[01:41:50.825] Server  LOG     ✓ Compiled in 17ms
-[01:42:05.325] Server  LOG     ✓ Compiled in 21ms
-[01:42:11.817] Server  LOG     ✓ Compiled in 17ms
-[01:42:17.444] Server  LOG     ✓ Compiled in 17ms
-[01:42:22.202] Server  LOG     ✓ Compiled in 30ms
-[01:55:13.581] Server  LOG     ✓ Compiled in 25ms
-[01:56:25.743] Server  LOG     ✓ Compiled in 19ms
-[01:56:40.421] Server  LOG     ✓ Compiled in 23ms
+[00:00:01.515] Server  LOG     ✓ Ready in 1108ms
+[00:00:03.187] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:34.893] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:14.167] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:20.919] Server  LOG     ✓ Compiled in 0ms
+[00:11:21.013] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:34.569] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.570] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.571] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.571] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.572] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.573] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.574] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.574] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.575] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.576] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.577] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.577] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.578] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.579] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.580] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.580] Server  ERROR   ⨯ ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:34.603] Server  LOG     ✓ Compiled in 69ms
+[00:11:35.465] Browser ERROR   ./app/layout.tsx:2:1
+Module not found: Can't resolve '@/components/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { apiGet } from "@/lib/apiServer";
+  4 |
+  5 | type Category = { id: number; name: string; slug: string };
+
+Import map: aliased to relative './components/Navbar' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:18.255] Server  LOG     ✓ Compiled in 40ms
+[00:12:18.331] Server  WARN    Error: Route "/" used `cookies().toString`. `cookies()` returns a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:12:18.359] Server  WARN    Error: Route "/" used `cookies().toString`. `cookies()` returns a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:12:18.403] Server  WARN    Error: Route "/" used `cookies().toString`. `cookies()` returns a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:12:18.502] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:23.670] Server  WARN    Error: Route "/login" used `cookies().toString`. `cookies()` returns a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:12:23.785] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:26.080] Server  WARN    Error: Route "/login" used `cookies().toString`. `cookies()` returns a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:12:26.101] Server  WARN    Error: Route "/login" used `cookies().toString`. `cookies()` returns a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:12:26.185] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:31.049] Server  WARN    Error: Route "/login" used `cookies().toString`. `cookies()` returns a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:12:31.071] Server  WARN    Error: Route "/login" used `cookies().toString`. `cookies()` returns a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:12:31.155] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:48.645] Server  WARN    Error: Route "/" used `cookies().toString`. `cookies()` returns a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:12:48.736] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:53.271] Server  WARN    Error: Route "/" used `cookies().toString`. `cookies()` returns a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:12:53.362] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:54.006] Server  WARN    Error: Route "/" used `cookies().toString`. `cookies()` returns a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:12:54.091] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:48.076] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:04.801] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.802] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.802] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.803] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.804] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.804] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.805] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.806] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.810] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.811] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.812] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.813] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.814] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.814] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.815] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.816] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.816] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.816] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.817] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.817] Server  ERROR   ⨯ ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:04.841] Server  LOG     ✓ Compiled in 42ms
+[00:14:05.465] Browser ERROR   ./components/navbar.tsx:2:1
+Module not found: Can't resolve './ProductsMenu'
+  1 | import Link from "next/link";
+> 2 | import ProductsMenu from "./ProductsMenu";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | type Category = { id: number; name: string; slug: string };
+  5 |
+
+Import trace:
+  Server Component:
+    ./components/navbar.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:17:20.637] Server  LOG     ✓ Compiled in 22ms
+[00:17:21.465] Browser ERROR   uncaughtError: ReferenceError: loadCategories is not defined
+[00:23:56.531] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:23:56.604] Server  LOG     ✓ Compiled in 22ms
+[00:23:56.753] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:03.711] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:49.158] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:33.168] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:36.561] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
